@@ -17,12 +17,6 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"hello");
-    dfgdfg
-    ghsdbgjk
-    dfhdfh
-    dshdf
-    hdf
-    
     // Do any additional setup after loading the view, typically from a nib.
 }
 
